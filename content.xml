@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260418140103ES25BN</value>
+    <value>20260420122811A3PPYP</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260418140103G73FDU</value>
+    <value>20260420122811SR6JUN</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776513651309</value>
+    <value>1776680867555</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo4acy85-kv5hysj88</odePageId>
+  <odePageId>page-mo71wz40-hkj265jsd</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy85-kv5hysj88</odePageId>
+      <odePageId>page-mo71wz40-hkj265jsd</odePageId>
       <odeBlockId>block-1776501703027-tnhrxlz0k</odeBlockId>
       <blockName>Latidos Marinos, del ruido urbano al movimiento orgánico</blockName>
       <iconName>think_alt</iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy85-kv5hysj88</odePageId>
+          <odePageId>page-mo71wz40-hkj265jsd</odePageId>
           <odeBlockId>block-1776501703027-tnhrxlz0k</odeBlockId>
           <odeIdeviceId>idevice-1776501703023-t9cpoqhyx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -185,7 +185,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo4acy85-kv5hysj88</odePageId>
+      <odePageId>page-mo71wz40-hkj265jsd</odePageId>
       <odeBlockId>block-1776502894866-pwis6vwsn</odeBlockId>
       <blockName>Sitio web externo</blockName>
       <iconName></iconName>
@@ -218,7 +218,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy88-onhsob87u</odePageId>
+  <odePageId>page-mo71wz42-9jcr2i2lj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Nuestra seguridad digital</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -254,7 +254,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy88-onhsob87u</odePageId>
+      <odePageId>page-mo71wz42-9jcr2i2lj</odePageId>
       <odeBlockId>block-1776503137123-o0zdegj3t</odeBlockId>
       <blockName>Seguridad digital</blockName>
       <iconName>video</iconName>
@@ -283,7 +283,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy88-onhsob87u</odePageId>
+          <odePageId>page-mo71wz42-9jcr2i2lj</odePageId>
           <odeBlockId>block-1776503137123-o0zdegj3t</odeBlockId>
           <odeIdeviceId>idevice-1776503137120-7pmv7dkd1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -313,7 +313,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy89-vhsond63r</odePageId>
+  <odePageId>page-mo71wz43-y18lqltfr</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Vuestro reto</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -349,7 +349,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy89-vhsond63r</odePageId>
+      <odePageId>page-mo71wz43-y18lqltfr</odePageId>
       <odeBlockId>block-1776508424150-hwp4qr061</odeBlockId>
       <blockName>Vuestro reto</blockName>
       <iconName>objectives</iconName>
@@ -378,7 +378,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy89-vhsond63r</odePageId>
+          <odePageId>page-mo71wz43-y18lqltfr</odePageId>
           <odeBlockId>block-1776508424150-hwp4qr061</odeBlockId>
           <odeIdeviceId>idevice-1776508424149-5uzz2wjkq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -413,7 +413,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8a-a3yhftj5y</odePageId>
+  <odePageId>page-mo71wz43-1l9prs3aa</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inspiración marina</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -449,7 +449,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8a-a3yhftj5y</odePageId>
+      <odePageId>page-mo71wz43-1l9prs3aa</odePageId>
       <odeBlockId>block-1776509422383-3v6vi0hn6</odeBlockId>
       <blockName>Inspiración marina</blockName>
       <iconName>explore</iconName>
@@ -478,7 +478,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8a-a3yhftj5y</odePageId>
+          <odePageId>page-mo71wz43-1l9prs3aa</odePageId>
           <odeBlockId>block-1776509422383-3v6vi0hn6</odeBlockId>
           <odeIdeviceId>idevice-1776509422381-7dgy6d7pu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -514,7 +514,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8a-gwmvnaqr6</odePageId>
+  <odePageId>page-mo71wz44-uyrwr19rx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Nuestra hoja de ruta</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -550,7 +550,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8a-gwmvnaqr6</odePageId>
+      <odePageId>page-mo71wz44-uyrwr19rx</odePageId>
       <odeBlockId>block-1776510298274-uxt3hgzlg</odeBlockId>
       <blockName>Nuestra hoja de ruta</blockName>
       <iconName>roadmap</iconName>
@@ -579,7 +579,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8a-gwmvnaqr6</odePageId>
+          <odePageId>page-mo71wz44-uyrwr19rx</odePageId>
           <odeBlockId>block-1776510298274-uxt3hgzlg</odeBlockId>
           <odeIdeviceId>idevice-1776510298272-e0i86mt1y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -609,7 +609,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8b-3mkfheux2</odePageId>
+  <odePageId>page-mo71wz44-asyaxumpx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Cómo se va a valorar el trabajo?</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -645,7 +645,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8b-3mkfheux2</odePageId>
+      <odePageId>page-mo71wz44-asyaxumpx</odePageId>
       <odeBlockId>block-1776510620179-3tfh8z4l5</odeBlockId>
       <blockName>Rúbrica evaluación</blockName>
       <iconName>think</iconName>
@@ -674,7 +674,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8b-3mkfheux2</odePageId>
+          <odePageId>page-mo71wz44-asyaxumpx</odePageId>
           <odeBlockId>block-1776510620179-3tfh8z4l5</odeBlockId>
           <odeIdeviceId>idevice-1776510620178-qtm9wrf94</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -702,7 +702,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo4acy8b-3mkfheux2</odePageId>
+      <odePageId>page-mo71wz44-asyaxumpx</odePageId>
       <odeBlockId>block-1776511256656-zorq7q43e</odeBlockId>
       <blockName>Cuéntame tu experiencia</blockName>
       <iconName>discuss</iconName>
@@ -731,7 +731,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8b-3mkfheux2</odePageId>
+          <odePageId>page-mo71wz44-asyaxumpx</odePageId>
           <odeBlockId>block-1776511256656-zorq7q43e</odeBlockId>
           <odeIdeviceId>idevice-1776511256655-i331pekce</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -761,7 +761,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8b-51j396rr9</odePageId>
+  <odePageId>page-mo71wz44-j6fawo48n</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía Didáctica</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -799,8 +799,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8c-cetaoe5dl</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz45-kwx8b8ox4</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Presentación y Descripción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -835,7 +835,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8c-cetaoe5dl</odePageId>
+      <odePageId>page-mo71wz45-kwx8b8ox4</odePageId>
       <odeBlockId>block-1776506420091-ei7png5pw</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -864,7 +864,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8c-cetaoe5dl</odePageId>
+          <odePageId>page-mo71wz45-kwx8b8ox4</odePageId>
           <odeBlockId>block-1776506420091-ei7png5pw</odeBlockId>
           <odeIdeviceId>idevice-1776506420089-p9cynyphl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -900,8 +900,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8c-179e5ol5o</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz45-k5jvgpayy</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Tratamiento de datos y garantía d derechos digitales</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -936,7 +936,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8c-179e5ol5o</odePageId>
+      <odePageId>page-mo71wz45-k5jvgpayy</odePageId>
       <odeBlockId>block-1776507719509-k4aire82v</odeBlockId>
       <blockName>Tratamiento de datos y garantía de derechos digitales</blockName>
       <iconName></iconName>
@@ -965,7 +965,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8c-179e5ol5o</odePageId>
+          <odePageId>page-mo71wz45-k5jvgpayy</odePageId>
           <odeBlockId>block-1776507719509-k4aire82v</odeBlockId>
           <odeIdeviceId>idevice-1776507719505-wlldoznau</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1002,8 +1002,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8c-ib7rn4zhz</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz45-n1lerex8p</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Especificaciones sobre el producto final</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1038,7 +1038,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8c-ib7rn4zhz</odePageId>
+      <odePageId>page-mo71wz45-n1lerex8p</odePageId>
       <odeBlockId>block-1776509067192-cb9d3vvez</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1067,7 +1067,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8c-ib7rn4zhz</odePageId>
+          <odePageId>page-mo71wz45-n1lerex8p</odePageId>
           <odeBlockId>block-1776509067192-cb9d3vvez</odeBlockId>
           <odeIdeviceId>idevice-1776509067190-5k2vifigl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1099,8 +1099,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8d-95m1gjcoz</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz46-l4la9ydp8</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Curación de contenidos</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1135,7 +1135,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8d-95m1gjcoz</odePageId>
+      <odePageId>page-mo71wz46-l4la9ydp8</odePageId>
       <odeBlockId>block-1776510081617-un4zq8nda</odeBlockId>
       <blockName>Curación de contenidos</blockName>
       <iconName></iconName>
@@ -1164,19 +1164,23 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8d-95m1gjcoz</odePageId>
+          <odePageId>page-mo71wz46-l4la9ydp8</odePageId>
           <odeBlockId>block-1776510081617-un4zq8nda</odeBlockId>
           <odeIdeviceId>idevice-1776510081615-9ach93pgx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>En este apartado se detalla la selección de recursos digitales (REA) y materiales de elaboración propia organizados para el alumnado.</p>
-<p>Se ha utilizado la técnica de curación de contenidos a través de la herramienta Padlet, estructurada en tres ejes estratégicos:</p>
+<p>Se ha utilizado la técnica de curación de contenidos a través de la herramienta <strong>Padlet</strong>, estructurada en tres ejes estratégicos:</p>
 <p>1. Conceptuar el movimiento (Inspiración artística).</p>
 <p>2. Capacitación técnica (Tutoriales de edición) y ética digital (Repositorios de audio libre de derechos).</p>
 <p>3. Seguridad digital (a modo de recordatorio).</p>
 <p>Esta organización facilita la autonomía del estudiante y garantiza el acceso a fuentes seguras y de calidad.</p>
+<p><a href="https://padlet.com/naliapalmerodanza/latidos-marinos-del-ruido-urbano-al-movimiento-org-nico-u29lnzgqw8ajcgv3" title="">ENLACE PADLET Inspiración Marina</a></p>
+<p>Se ha organizado el acceso directo a las plataformas oficiales de la Junta de Andalucía (Séneca), la página web de conservatorio y repositorios institucionales de buenas prácticas (INTEF) a la izquierda, y herramientas creativas para el desarrollo del proyecto "Latidos Marinos"  a la derecha (Canva, Bancos de sonidos, Spotify, Padlet) a través de<strong> Symbaloo</strong>. </p>
+<p><a href="https://www.symbaloo.com/home/mix/13ePH25cLZ" title="">ENLACE Symbaloo</a></p>
+<p>Esta curación optimiza la gestión del aula y garantiza que siempre se utilicen recursos actualizados y seguros, compartiendo este entorno con otros compañeros del departamento para fomentar la colaboración docente.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776510081615-9ach93pgx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado se detalla la selección de recursos digitales (REA) y materiales de elaboración propia organizados para el alumnado.</p>\n<p>Se ha utilizado la técnica de curación de contenidos a través de la herramienta Padlet, estructurada en tres ejes estratégicos:</p>\n<p>1. Conceptuar el movimiento (Inspiración artística).</p>\n<p>2. Capacitación técnica (Tutoriales de edición) y ética digital (Repositorios de audio libre de derechos).</p>\n<p>3. Seguridad digital (a modo de recordatorio).</p>\n<p>Esta organización facilita la autonomía del estudiante y garantiza el acceso a fuentes seguras y de calidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776510081615-9ach93pgx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado se detalla la selección de recursos digitales (REA) y materiales de elaboración propia organizados para el alumnado.</p>\n<p>Se ha utilizado la técnica de curación de contenidos a través de la herramienta <strong>Padlet</strong>, estructurada en tres ejes estratégicos:</p>\n<p>1. Conceptuar el movimiento (Inspiración artística).</p>\n<p>2. Capacitación técnica (Tutoriales de edición) y ética digital (Repositorios de audio libre de derechos).</p>\n<p>3. Seguridad digital (a modo de recordatorio).</p>\n<p>Esta organización facilita la autonomía del estudiante y garantiza el acceso a fuentes seguras y de calidad.</p>\n<p><a href=\"https://padlet.com/naliapalmerodanza/latidos-marinos-del-ruido-urbano-al-movimiento-org-nico-u29lnzgqw8ajcgv3\" title=\"\">ENLACE PADLET Inspiración Marina</a></p>\n<p>Se ha organizado el acceso directo a las plataformas oficiales de la Junta de Andalucía (Séneca), la página web de conservatorio y repositorios institucionales de buenas prácticas (INTEF) a la izquierda, y herramientas creativas para el desarrollo del proyecto \"Latidos Marinos\"  a la derecha (Canva, Bancos de sonidos, Spotify, Padlet) a través de<strong> Symbaloo</strong>. </p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13ePH25cLZ\" title=\"\">ENLACE Symbaloo</a></p>\n<p>Esta curación optimiza la gestión del aula y garantiza que siempre se utilicen recursos actualizados y seguros, compartiendo este entorno con otros compañeros del departamento para fomentar la colaboración docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1198,8 +1202,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8d-k3hivmsfv</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz46-oco2b7nep</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Cronograma</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1234,7 +1238,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8d-k3hivmsfv</odePageId>
+      <odePageId>page-mo71wz46-oco2b7nep</odePageId>
       <odeBlockId>block-1776510471633-hak4ryqew</odeBlockId>
       <blockName>Cronograma</blockName>
       <iconName></iconName>
@@ -1263,7 +1267,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8d-k3hivmsfv</odePageId>
+          <odePageId>page-mo71wz46-oco2b7nep</odePageId>
           <odeBlockId>block-1776510471633-hak4ryqew</odeBlockId>
           <odeIdeviceId>idevice-1776510471631-4tra5fq7j</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1292,8 +1296,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8d-5pkoo63j4</odePageId>
-  <odeParentPageId>page-mo4acy8b-51j396rr9</odeParentPageId>
+  <odePageId>page-mo71wz46-a29uhftzj</odePageId>
+  <odeParentPageId>page-mo71wz44-j6fawo48n</odeParentPageId>
   <pageName>Instrumentos de evaluación</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1328,7 +1332,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8d-5pkoo63j4</odePageId>
+      <odePageId>page-mo71wz46-a29uhftzj</odePageId>
       <odeBlockId>block-1776511498154-kiv79d6hh</odeBlockId>
       <blockName>Instrumentos de evaluación</blockName>
       <iconName></iconName>
@@ -1357,7 +1361,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8d-5pkoo63j4</odePageId>
+          <odePageId>page-mo71wz46-a29uhftzj</odePageId>
           <odeBlockId>block-1776511498154-kiv79d6hh</odeBlockId>
           <odeIdeviceId>idevice-1776511498153-8442ou3e5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1388,7 +1392,101 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo4acy8d-at0y737xz</odePageId>
+  <odePageId>page-mo71wz46-sa8357yx4</odePageId>
+  <odeParentPageId>page-mo71wz46-a29uhftzj</odeParentPageId>
+  <pageName>Tareas a realizar y criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas a realizar y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas a realizar y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo71wz46-sa8357yx4</odePageId>
+      <odeBlockId>block-1776679506235-caj7gzl02</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo71wz46-sa8357yx4</odePageId>
+          <odeBlockId>block-1776679506235-caj7gzl02</odeBlockId>
+          <odeIdeviceId>idevice-1776679506232-9wmwp6n48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TAREAS A REALIZAR.png" width="717" height="377" alt="Tareas a realizar. NaliaPalmero" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776679506232-9wmwp6n48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TAREAS A REALIZAR.png\" width=\"717\" height=\"377\" alt=\"Tareas a realizar. NaliaPalmero\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo71wz47-fifdlfcsj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1424,7 +1522,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo4acy8d-at0y737xz</odePageId>
+      <odePageId>page-mo71wz47-fifdlfcsj</odePageId>
       <odeBlockId>block-1776512018181-xqk2d8p51</odeBlockId>
       <blockName>Nalia Palmero Creative Commons Atribución-CompartirIgual (CC BY-SA 4.0).</blockName>
       <iconName></iconName>
@@ -1455,7 +1553,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo4acy8d-at0y737xz</odePageId>
+      <odePageId>page-mo71wz47-fifdlfcsj</odePageId>
       <odeBlockId>block-1776513033855-eeuaspe6u</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1484,7 +1582,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo4acy8d-at0y737xz</odePageId>
+          <odePageId>page-mo71wz47-fifdlfcsj</odePageId>
           <odeBlockId>block-1776513033855-eeuaspe6u</odeBlockId>
           <odeIdeviceId>idevice-1776513033853-fx5p9t5uv</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
