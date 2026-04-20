@@ -18,6 +18,7 @@ window.__ELPX_MANIFEST__={
     "html/curacion-de-contenidos.html",
     "html/cronograma.html",
     "html/instrumentos-de-evaluacion.html",
+    "html/tareas-a-realizar-y-criterios-de-evaluacion.html",
     "html/creditos.html",
     "content.xml",
     "content/css/base.css",
@@ -105,6 +106,7 @@ window.__ELPX_MANIFEST__={
     "content/resources/Infografía Educativa Listado Proceso Dibujos Ilustrado Turquesa.jpg",
     "content/resources/oslometx-video-production-4223885.jpg",
     "content/resources/Rúbrica evaluación composición coreográfica.png",
+    "content/resources/TAREAS A REALIZAR.png",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "Latidos Marinos"
